@@ -8,5 +8,5 @@
    
 5. Update the API_KEY and API_SECRET with values from your Alpaca account
     
-6. Run the bot python tradingbot.py
+6. Run the bot python trading_bot.py
 
